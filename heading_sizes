@@ -7,20 +7,23 @@
 Page Title: Heading Sizes
 </title>
 </head>
-
-<body>
-
 	
    <body>
+   	<h3> Programmer:Akinwale Owi </h3>
+    <h3> Company:Godbrand Games L.L.C. </h3>
+    <h3> Program purpose: Showcase different heading sizes</h3>
+	<h3>Current online editor =  https://www.w3schools.com/html/tryit.asp?filename=tryhtml_editor
+    </h3> 
+    <h3>----------------------------------------------------------</h3>
+
+   
       <h1>h1 = heading 1</h1>
       <h2>h2 = heading 2</h2>
       <h3>h3 = heading 3</h3>
       <h4>h4 = heading 4</h4>
-      <h5>This is heading 5</h5>
-      <h6>This is heading 6</h6>
+      <h5>h5 = heading 5</h5>
+      <h6>h6 = heading 6</h6>
    </body>
-
-</body>
 
 
 </html>
