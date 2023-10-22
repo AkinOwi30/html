@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 
 <html>
 
@@ -13,6 +13,11 @@
       
      	<p> Coder: Akinwale Owi </p>
     	<p>Krewe: Godbrand Games L.L.C. </p>
+        
+        <p>Current online editor =  https://www.w3schools.com/html/tryit.asp?filename=tryhtml_editor 
+		</p>
+        
+        <hr />
       	
         <table bgcolor = "#FFCB05">
       
