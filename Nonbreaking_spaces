@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html>
+
+   <head>
+   
+      <title>Nonbreaking spaces in Html
+      </title>
+      
+   </head>
+	
+   <body text = "#00274C" bgcolor = "#ffd4fd">
+      
+     	<p> Coder: Akinwale Owi </p>
+    	<p>Krewe: Godbrand Games L.L.C. </p>
+        
+        <p>Current online editor =  https://www.w3schools.com/html/tryit.asp?filename=tryhtml_editor 
+		</p>
+        
+      	
+        <table bgcolor = "#FFCB05">
+      
+         <tr>
+         
+            <td>
+            
+        <font color = "#00274C"> Program Purpose: Change a page's background,text, and text highlight colors.
+        </font>
+        
+            </td>
+            
+         </tr>
+         
+      </table>
+      
+      <hr />
+      
+   </body>
+   
+</html>
