@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 
 <head>
 
@@ -19,9 +21,7 @@ Page Title: The Center Tag
       What was the last good nature documentary you watched?<br />
       </h3>
    </Center>   
-   
-     
+        
    </body>
-
 
 </html>
