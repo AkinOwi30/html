@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 
 <html>
 
@@ -10,7 +10,8 @@
       
       <p>Hex palette: Michigan University</p>
       
-      <table bgcolor = "#000000">
+      <table bgcolor = "#FFCB05">
+      
          <tr>
             <td>
                <font color = "#FFFFFF">This text will appear white on black background.</font>
