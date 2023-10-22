@@ -6,15 +6,16 @@
       <title>How to edit a page's colors in HTML by Hex</title>
    </head>
 	
-   <body text = "#0000FF" bgcolor = "#00FF00">
+   <body text = "#FFCB05" bgcolor = "#00274C">
       
       <p>Hex palette: Michigan University</p>
       
-      <table bgcolor = "#FFCB05">
+      	<table bgcolor = "#FFCB05">
       
          <tr>
             <td>
-               <font color = "#FFFFFF">This text will appear white on black background.</font>
+        <font color = "#00274C">This text will appear white on black background.
+        </font>
             </td>
          </tr>
       </table>
