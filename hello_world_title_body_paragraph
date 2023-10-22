@@ -4,15 +4,22 @@
 
 <head>
 
-<title>Page Title: Hello World </title>
+<title>
+Page Title: Hello World 
+</title>
 
 </head>
 
 
 <body>
 
-<h1>Heading: Hello world from Godbrand Games L.L.C.! </h1>
-<p>Paragraph: </p>
+<h1>
+Heading: Hello world from Godbrand Games L.L.C.! 
+</h1>
+
+<p>
+Paragraph: Current online editor =  https://www.w3schools.com/html/tryit.asp?filename=tryhtml_editor 
+</p>
 
 </body>
 </html>
