@@ -1,0 +1,22 @@
+!DOCTYPE html>
+
+<html>
+
+   <head>
+      <title>How to edit a page's colors in HTML by Hex</title>
+   </head>
+	
+   <body text = "#0000FF" bgcolor = "#00FF00">
+      
+      <p>Hex palette: Michigan University</p>
+      
+      <table bgcolor = "#000000">
+         <tr>
+            <td>
+               <font color = "#FFFFFF">This text will appear white on black background.</font>
+            </td>
+         </tr>
+      </table>
+   </body>
+   
+</html>
