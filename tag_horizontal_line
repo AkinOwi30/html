@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>
+Page Title: The Horizontal Line Tag
+</title>
+</head>
+	
+   <body>
+   	<h3> Programmer:Akinwale Owi </h3>
+    <h3> Company:Godbrand Games L.L.C. </h3>
+    <h3> Program purpose: Use the horizontal line tag to create some</h3>
+	<h3>Current online editor =  https://www.w3schools.com/html/tryit.asp?filename=tryhtml_editor
+    </h3> 
+    
+    <hr />
+   
+   <Center>
+      <h3>Start of grocery list:<br />
+       <hr />
+      
+      1.Ice cream dessert for learning all this html<br />
+      2.?
+       
+      </h3>
+   </Center>   
+        
+   </body>
+
+</html>
