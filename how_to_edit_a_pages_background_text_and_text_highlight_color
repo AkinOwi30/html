@@ -1,9 +1,12 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 
 <html>
 
    <head>
-      <title>How to edit a page's colors in HTML by Hex</title>
+   
+      <title>How to change a page's background,text, and text highlight colors.
+      </title>
+      
    </head>
 	
    <body text = "#FFCB05" bgcolor = "#00274C">
@@ -14,12 +17,18 @@
         <table bgcolor = "#FFCB05">
       
          <tr>
+         
             <td>
+            
         <font color = "#00274C"> Program Purpose: Change a page's background,text, and text highlight colors.
         </font>
+        
             </td>
+            
          </tr>
+         
       </table>
+      
    </body>
    
 </html>
