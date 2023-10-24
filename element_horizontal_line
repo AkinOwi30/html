@@ -8,7 +8,8 @@ Page Title: The Horizontal Line Tag
 </title>
 </head>
 	
-   <body>
+     <body text = "#FFCB05" bgcolor = "#00274C">
+     
    	<h3> Programmer:Akinwale Owi </h3>
     <h3> Company:Godbrand Games L.L.C. </h3>
     <h3> Program purpose: Use the horizontal line tag to create some</h3>
