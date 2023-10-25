@@ -8,7 +8,8 @@ Page Title: The Center Tag
 </title>
 </head>
 	
-   <body>
+   <body text = "#000000" bgcolor = "#1fea00">
+   
    	<h3> Programmer:Akinwale Owi </h3>
     <h3> Company:Godbrand Games L.L.C. </h3>
     <h3> Program purpose: Use the center tag/technique </h3>
