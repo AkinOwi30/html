@@ -22,7 +22,15 @@
     <h2>Naturally on the left,</h2>
 
     <Center>
+
         <h2>With some magic, this section is being centered</h2>
+
+        <hr />
+
+        <p>Test material: #0 </p>
+        <h3>Test material:#1 </h3>
+        <h3>Test material:#2 </h3>
+
 
     </Center>
 
