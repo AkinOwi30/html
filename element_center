@@ -3,26 +3,31 @@
 
 <head>
 
-<title>
-Page Title: The Center Tag
-</title>
+    <title>
+        Page Title: The Center Element
+    </title>
 </head>
-	
-   <body text = "#000000" bgcolor = "#1fea00">
-   
-   	<h3> Programmer:Akinwale Owi </h3>
+
+<body text="#000000" bgcolor="#1fea00">
+
+    <h3> Programmer:Akinwale Owi </h3>
     <h3> Company:Godbrand Games L.L.C. </h3>
-    <h3> Program purpose: Use the center tag/technique </h3>
-	<h3>Current online editor =  https://www.w3schools.com/html/tryit.asp?filename=tryhtml_editor
-    </h3> 
-    <h3>----------------------------------------------------------</h3>
-   
-   <Center>
-      <h3>Good afternoon,<br />
-      What was the last good nature documentary you watched?<br />
-      </h3>
-   </Center>   
-        
-   </body>
+    <h3> Program purpose: Use the center element/technique </h3>
+    <h3>Current online editor = https://www.w3schools.com/html/tryit.asp?filename=tryhtml_editor
+    </h3>
+
+    <hr />
+
+
+    <h2>Naturally on the left,</h2>
+
+    <Center>
+        <h2>With some magic, this section is being centered</h2>
+
+    </Center>
+
+
+
+</body>
 
 </html>
