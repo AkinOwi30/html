@@ -2,38 +2,37 @@
 
 <html>
 
-   <head>
-   
-      <title>How to change a page's background,text, and text highlight colors.
-      </title>
-      
-   </head>
-	
-   <body text = "#FFCB05" bgcolor = "#00274C">
-      
-     	<p> Coder: Akinwale Owi </p>
-    	<p>Krewe: Godbrand Games L.L.C. </p>
-        
-        <p>Current online editor =  https://www.w3schools.com/html/tryit.asp?filename=tryhtml_editor 
-		</p>
-        
-        <hr />
-      	
-        <table bgcolor = "#FFCB05">
-      
-         <tr>
-         
+<head>
+
+
+    <p> Coder: Akinwale Owi </p>
+    <p>Company: Godbrand Games L.L.C. </p>
+
+
+    <title>How to change a page's background,text, and text highlight colors.
+    </title>
+
+</head>
+
+<body text="#FFCB05" bgcolor="#00274C">
+
+    <hr />
+
+    <table bgcolor="#FFCB05">
+
+        <tr>
+
             <td>
-            
-        <font color = "#00274C"> Program Purpose: Change a page's background,text, and text highlight colors.
-        </font>
-        
+
+                <font color="#00274C"> Program Purpose: Change a page's background,text, and text highlight colors.
+                </font>
+
             </td>
-            
-         </tr>
-         
-      </table>
-      
-   </body>
-   
+
+        </tr>
+
+    </table>
+
+</body>
+
 </html>
