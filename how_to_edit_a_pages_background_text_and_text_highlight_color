@@ -7,6 +7,7 @@
 
     <p> Coder: Akinwale Owi </p>
     <p>Company: Godbrand Games L.L.C. </p>
+    <p>Program Purpose: Change a page's background,text, and text highlight colors.</p>
 
 
     <title>How to change a page's background,text, and text highlight colors.
@@ -14,9 +15,10 @@
 
 </head>
 
-<body text="#FFCB05" bgcolor="#00274C">
+<body text="#FFFF00" bgcolor="#800080">
 
     <hr />
+
 
     <table bgcolor="#FFCB05">
 
@@ -24,7 +26,22 @@
 
             <td>
 
-                <font color="#00274C"> Program Purpose: Change a page's background,text, and text highlight colors.
+                <font color="#00274C"> Sample material #0
+                </font>
+
+            </td>
+
+        </tr>
+
+    </table>
+
+    <table bgcolor="#228B22">
+
+        <tr>
+
+            <td>
+
+                <font color="#00274C"> Sample material #1 Favorite Halloween movie?
                 </font>
 
             </td>
