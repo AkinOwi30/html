@@ -15,13 +15,14 @@
 
 </head>
 
-<body text="#FFFFFF" bgcolor="#FFA500">
+<body text="#228B22" bgcolor="#FFA500">
 
     <hr />
     <hr />
-    <h2 style=" font-family:verdana"> Coder: Akinwale Owi </h2>
-    <h1 style="font-family:Garamond"> Coder: Akinwale Owi </h2>
-        <p style="font-family:Times New Roman"> Coder: Akinwale Owi </p>
+    <h2 style=" font-family:verdana">Glad we didn't have to import anything. </h2>
+    <h1 style="font-family:Garamond"> Apparently in Html 5,</h2>
+
+        <p style="font-family:Times New Roman"> We have to use css like this, thanks for stopping by. </p>
 
 </body>
 
