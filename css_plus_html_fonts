@@ -7,7 +7,7 @@
 
     <p style="font-family:verdana"> Coder: Akinwale Owi </p>
     <p style="font-family:'Courier New'">>Company: Godbrand Games L.L.C. </p>
-    <p>Program Purpose: How to change the font style in on an HTML website.</p>
+    <p>Program Purpose: Change the font style in on an HTML website.</p>
 
 
     <title>How to change the font style in on an HTML website.
@@ -15,12 +15,13 @@
 
 </head>
 
-<body text="#FFFFFF" bgcolor="#000000">
+<body text="#FFFFFF" bgcolor="#FFA500">
 
     <hr />
     <hr />
-
-
+    <h2 style=" font-family:verdana"> Coder: Akinwale Owi </h2>
+    <h1 style="font-family:Garamond"> Coder: Akinwale Owi </h2>
+        <p style="font-family:Times New Roman"> Coder: Akinwale Owi </p>
 
 </body>
 
