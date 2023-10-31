@@ -37,10 +37,9 @@
     <h2 style="font-family:sans-serif">4. Cursive:</h2>
 
     <hr />
-    <h2 style="font-family:sans-serif">5. Fantasy:</h2>
-
-    <hr />
-
+    <h2 style="font-family:Fantasy">5. Fantasy:</h2>
+    <h2 style="font-family:Copperplate">5a. Copperplate:</h2>
+    <h2 style="font-family:Papyrus">5b. Papyrus:</h2>
 
 
 
