@@ -20,28 +20,29 @@
     <hr />
     <hr />
     <Center>
-        <h2>~Base Fonts~</h2>
+        <h2>~These all come standard~</h2>
     </Center>
 
-    <h2 style=" font-family:serif">Serif: </h2>
-    <h2 style="font-family:sans-serif"> Sans-Serif:</h2>
-    <h2 style="font-family:sans-serif"> Monospace:</h2>
-    <h2 style="font-family:sans-serif"> Cursive:</h2>
-    <h2 style="font-family:sans-serif"> Fantasy:</h2>
+    <h2 style=" font-family:serif">1. Serif: </h2>
+    <h2 style=" font-family:times new roman">1A. Times New Roman </h2>
 
     <hr />
 
-    <Center>
-        <h2>~Secondary Fonts~</h2>
+    <h2 style="font-family:sans-serif">2. Sans-Serif:</h2>
 
-    </Center>
+    <hr />
+    <h2 style="font-family:sans-serif">3. Monospace:</h2>
 
-    <h2 style=" font-family:times new roman">Sample A </h2>
-    <h1 style="font-family:arial"> Sample B</h2>
+    <hr />
+    <h2 style="font-family:sans-serif">4. Cursive:</h2>
 
-        <p style="font-family:Monaco"> Sample C </p>
-        <h2 style=" font-family:Lucida Handwriting">Sample D</h2>
-        <h2 style=" font-family:Copperplate">Sample E </h2>
+    <hr />
+    <h2 style="font-family:sans-serif">5. Fantasy:</h2>
+
+    <hr />
+
+
+
 
 
 </body>
