@@ -26,24 +26,22 @@
     <h2 style=" font-family:serif">Serif: </h2>
     <h2 style="font-family:sans-serif"> Sans-Serif:</h2>
     <h2 style="font-family:sans-serif"> Monospace:</h2>
-    <h1 style="font-family:sans-serif"> Cursive:</h2>
+    <h2 style="font-family:sans-serif"> Cursive:</h2>
+    <h2 style="font-family:sans-serif"> Fantasy:</h2>
 
-        <h2 style=" font-family:cursive">Happy Halloween!</h2>
-        <h2 style=" font-family:fantasy">Like and subscribe </h2>
+    <hr />
 
-        <hr />
+    <Center>
+        <h2>~Secondary Fonts~</h2>
 
-        <Center>
-            <h2>~Secondary Fonts~</h2>
+    </Center>
 
-        </Center>
+    <h2 style=" font-family:times new roman">Sample A </h2>
+    <h1 style="font-family:arial"> Sample B</h2>
 
-        <h2 style=" font-family:times new roman">Sample A </h2>
-        <h1 style="font-family:arial"> Sample B</h2>
-
-            <p style="font-family:Monaco"> Sample C </p>
-            <h2 style=" font-family:Lucida Handwriting">Sample D</h2>
-            <h2 style=" font-family:Copperplate">Sample E </h2>
+        <p style="font-family:Monaco"> Sample C </p>
+        <h2 style=" font-family:Lucida Handwriting">Sample D</h2>
+        <h2 style=" font-family:Copperplate">Sample E </h2>
 
 
 </body>
