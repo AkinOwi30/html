@@ -24,7 +24,10 @@
     </Center>
 
     <h2 style=" font-family:serif">1. Serif: </h2>
-    <h2 style=" font-family:times new roman">1A. Times New Roman </h2>
+    <h2 style=" font-family:times new roman">1a. Times New Roman </h2>
+    <h2 style=" font-family:Georgia">1b. Georgia </h2>
+    <h2 style=" font-family:Garamond">1c. Garamond </h2>
+
 
     <hr />
 
