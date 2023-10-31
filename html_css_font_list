@@ -31,7 +31,10 @@
     <h2 style="font-family:sans-serif">2. Sans-Serif:</h2>
 
     <hr />
-    <h2 style="font-family:sans-serif">3. Monospace:</h2>
+    <h2 style="font-family:Monospace">3. Monospace:</h2>
+    <h2 style="font-family:Courier New">3A. Courier New </h2>
+    <h2 style="font-family:Lucida Console">3B. Lucida Console</h2>
+    <h2 style="font-family:Monaco">3C. Monaco</h2>
 
     <hr />
     <h2 style="font-family:Cursive">4. Cursive:</h2>
