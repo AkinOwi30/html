@@ -29,6 +29,9 @@
     <hr />
 
     <h2 style="font-family:sans-serif">2. Sans-Serif:</h2>
+    <h2 style="font-family:arial">2a. Arial </h2>
+    <h2 style="font-family:Verdana">2b. Verdana </h2>
+    <h2 style="font-family:Helvetica">2c. Helvetica</h2>
 
     <hr />
     <h2 style="font-family:Monospace">3. Monospace:</h2>
