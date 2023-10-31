@@ -34,7 +34,9 @@
     <h2 style="font-family:sans-serif">3. Monospace:</h2>
 
     <hr />
-    <h2 style="font-family:sans-serif">4. Cursive:</h2>
+    <h2 style="font-family:Cursive">4. Cursive:</h2>
+    <h2 style="font-family:Brush Script MT">4A. Brush Script MT</h2>
+    <h2 style="font-family:Lucida Handwriting">4B. Lucida Handwriting </h2>
 
     <hr />
     <h2 style="font-family:Fantasy">5. Fantasy:</h2>
