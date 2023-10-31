@@ -15,14 +15,35 @@
 
 </head>
 
-<body text="#228B22" bgcolor="#FFA500">
+<body text="#FFA500" bgcolor="#000000">
 
     <hr />
     <hr />
-    <h2 style=" font-family:verdana">Glad we didn't have to import anything. </h2>
-    <h1 style="font-family:Garamond"> Apparently in Html 5,</h2>
+    <Center>
+        <h2>~Base Fonts~</h2>
+    </Center>
 
-        <p style="font-family:Times New Roman"> We have to use css like this, thanks for stopping by. </p>
+    <h2 style=" font-family:serif">Glad we didn't have to import anything. </h2>
+    <h1 style="font-family:sans-serif"> Apparently in Html 5,</h2>
+
+        <p style="font-family:monospace"> We have to use css like this. </p>
+        <h2 style=" font-family:cursive">Happy Halloween!</h2>
+        <h2 style=" font-family:fantasy">Like and subscribe </h2>
+
+        <hr />
+
+        <Center>
+            <h2>~Secondary Fonts~</h2>
+
+        </Center>
+
+        <h2 style=" font-family:times new roman">Sample A </h2>
+        <h1 style="font-family:arial"> Sample B</h2>
+
+            <p style="font-family:Monaco"> Sample C </p>
+            <h2 style=" font-family:Lucida Handwriting">Sample D</h2>
+            <h2 style=" font-family:Copperplate">Sample E </h2>
+
 
 </body>
 
