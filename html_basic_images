@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+
+    <h3 style="font-family:Monaco"> Coder: Akinwale Owi </h3>
+    <h3 style="font-family:'Courier New'">>Company:Godbrand Games L.L.C. </h3>
+    <h3>Program Goal: Code to images into a html webpage.</h3>
+
+
+    <title>Coding HTML images
+    </title>
+
+</head>
+
+<body text="#FFA500" bgcolor="#000000">
+
+    <hr />
+    <hr />
+    <Center>
+        <h2>~Right clicked and copied addresses from google~</h2>
+    </Center>
+
+
+    <img src="https://i.ytimg.com/vi/m7nFVlKj1cg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD7dLXLN3YERO765RUU4paRqUkrCg" alt="Homerun" width="300" height="300">
+
+
+    <img src="https://i.ytimg.com/vi/L7ZPCcclDjg/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYciBQKEMwDw==&rs=AOn4CLBw8AyqWp096PhWr5jm-C_jQgj-Zw" alt="Me" width="300" height="300">
+
+
+
+</body>
+
+</html>
