@@ -1,24 +1,41 @@
-
 <head>
 
-<title>
-Page Title: The Line Break Tag
-</title>
-</head>
-	
-   <body>
-   	<h3> Programmer:Akinwale Owi </h3>
+    <h3> Programmer:Akinwale Owi </h3>
     <h3> Company:Godbrand Games L.L.C. </h3>
     <h3> Program purpose: Showcase the line break tag/technique </h3>
-	<h3>Current online editor =  https://www.w3schools.com/html/tryit.asp?filename=tryhtml_editor
-    </h3> 
-    <h3>----------------------------------------------------------</h3>
-   
-      <h1>Good morning,<br />
-      Which game are you watching today?<br />
-      Desired wing sauce flavors?</h1>
-     
-   </body>
+    <h3>Current online editor = https://www.w3schools.com/html/tryit.asp?filename=tryhtml_editor
+    </h3>
+
+    <title>
+        Page Title: The Line Break Tag
+    </title>
+
+    <hr />
+</head>
+
+<body text="#FFFF00" bgcolor="#0000FF">
+
+
+
+    <h2>Good morning,<br />
+        Which game are you watching today?<br />
+        Desired wing sauce flavors?
+    </h2>
+
+    <Center>
+        <h2>~Right clicked and copied addresses from google~</h2>
+    </Center>
+
+    <img src="https://i.ytimg.com/vi/m7nFVlKj1cg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD7dLXLN3YERO765RUU4paRqUkrCg" alt="Homerun" width="300" height="300">
+
+    <br />
+
+    <img src="https://i.ytimg.com/vi/L7ZPCcclDjg/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYciBQKEMwDw==&rs=AOn4CLBw8AyqWp096PhWr5jm-C_jQgj-Zw" alt="Me" width="300" height="300">
+
+
+
+
+</body>
 
 
 </html>
