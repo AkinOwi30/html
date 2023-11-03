@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+
+    <h3 style="font-family:Monaco"> Coder: Akinwale Owi </h3>
+    <h3 style="font-family:'Courier New'">>Company:Godbrand Games L.L.C. </h3>
+    <h3>Program Goal: How to change the background color of muultiple elements</h3>
+
+
+    <title>change the background color of muultiple elements
+    </title>
+
+</head>
+
+<body text="#FFA500" bgcolor="#000000">
+
+    <hr />
+    <hr />
+    <Center>
+        <h2 style="background-color:Green">~One color ~</h2>
+
+        <p style="background-color:Blue">~Another color ~</p>
+
+        <h1 style="background-color:Red">~ Love the syntax~</h2>
+    </Center>
+
+
+
+
+</body>
+
+</html>
