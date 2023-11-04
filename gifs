@@ -1,17 +1,35 @@
 <!DOCTYPE html>
 <html>
-<body>
 
 
+<head>
 
-<img src="https://media.tenor.com/bV7tUbSdlroAAAAd/dragon-ball-super-broly-broly.gif" alt="Battle" style="width:480px;height:300x;">
+    <h3 style="font-family:'Courier New'">
+    	Company:Godbrand Games L.L.C.
+     	<br />
+     	Coder: Akinwale Owi 
+     	<br />
+     	Program Goal: Code gifs from the web onto our html webpage.
+     </h3>
+    
+    <title>
+    	Coding HTML images
+    </title>
+   
+
+</head>
 
 
-<img src="https://media.tenor.com/8KX2xkSvOvkAAAAd/goku-black-goku.gif" alt="Goku dancing" style="width:480px;height:300x;">
+<body text="#FFFF00" bgcolor="#0000FF">
 
+	<img src="https://media.tenor.com/bV7tUbSdlroAAAAd/dragon-ball-super-broly-broly.gif" alt="Battle" style="width:480px;height:300x;">
+
+
+	<img src="https://media.tenor.com/8KX2xkSvOvkAAAAd/goku-black-goku.gif" alt="Goku dancing" style="width:480px;height:300x;">
 
 </body>
-</html>
 
+
+</html>
 
 
