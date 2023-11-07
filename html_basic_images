@@ -5,9 +5,9 @@
 <head>
 
 
-    <h3 style="font-family:Monaco"> Coder: Akinwale Owi </h3>
-    <h3 style="font-family:'Courier New'">>Company:Godbrand Games L.L.C. </h3>
-    <h3>Program Goal: Code to images into a html webpage.</h3>
+    <h3 style="font-family:serif"> Coder: Akinwale Owi </h3>
+    <h3 style="font-family:serif"> Company: Godbrand Games L.L.C. </h3>
+    <h3 style="font-family:serif"> >Program Goal: Code to images into a html webpage.</h3>
 
 
     <title>Coding HTML images
@@ -15,12 +15,12 @@
 
 </head>
 
-<body text="#FFA500" bgcolor="#000000">
+<body text="#522D80" bgcolor="#F56600">
 
     <hr />
     <hr />
     <Center>
-        <h2>~Right clicked and copied addresses from google~</h2>
+        <h2 style="font-family:serif">~Right clicked and copied addresses from google~</h2>
     </Center>
 
 
