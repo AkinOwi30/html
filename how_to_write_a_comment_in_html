@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+
+    <h3 style="font-family:serif"> Coder: Akinwale Owi </h3>
+    <h3 style="font-family:serif"> Company: Godbrand Games L.L.C. </h3>
+    <h3 style="font-family:serif"> Program Goal: Write some comments in html</h3>
+
+
+    <title>How to comment in html
+    </title>
+
+</head>
+
+<hr/>
+
+<body text = "#522D80" bgcolor="#F56600">
+	
+`<h2> So visible </h2>
+
+<!--Comment = Back of house only -->
+
+<h2> The end users will see this</h2>
+
+<!--Last comment = Like and subscribe! Haha-->
+
+</body>
